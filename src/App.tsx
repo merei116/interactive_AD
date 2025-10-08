@@ -294,7 +294,7 @@ function AiResult({ linesA, linesB, diffByLine, revealed, aiFoundCount, aiTimeMs
               Наш ИИ-агент помогает сравнивать документы, выявлять риски и экономить часы работы юристов.
             </p>
             <a
-              href="https://wa.me/7717001150?text=Здравствуйте!%20Хочу%20узнать%20больше%2о%20вашем%20продукте."
+              href="https://wa.me/7717001150?text=Здравствуйте!%20Хочу%20узнать%20больше%20о%20вашем%20продукте."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block w-full sm:w-auto px-6 py-3 rounded-xl bg-emerald-600 text-white font-medium hover:bg-emerald-700 transition"
